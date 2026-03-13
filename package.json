@@ -1,0 +1,12 @@
+{
+  "name": "data-analysis",
+  "version": "1.0.0",
+  "description": "Data analysis project",
+  "private": true,
+  "dependencies": {
+    "openclaw": "2026.3.11"
+  },
+  "overrides": {
+    "node-domexception": "npm:@nolyfill/domexception@^1.0.28"
+  }
+}
